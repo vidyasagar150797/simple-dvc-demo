@@ -1,3 +1,7 @@
+#Local packages install
+-e .
+
+#THirdparty packages install
 dvc
 dvc[gdrive]
 sklearn
